@@ -1,13 +1,13 @@
-<form action="" method="get" class="form-example">
-  <div class="form-example">
-    <label for="name">Enter your name: </label>
-    <input type="text" name="name" id="name" required />
-  </div>
-  <div class="form-example">
-    <label for="email">Enter your email: </label>
-    <input type="email" name="email" id="email" required />
-  </div>
-  <div class="form-example">
-    <input type="submit" value="Subscribe!" />
-  </div>
-</form>
+
+<img src="https://i.etsystatic.com/42711062/r/il/bce1a7/5716773967/il_794xN.5716773967_38ek.jpg">
+
+<button onclick="myFunction()">Add to Shopping Cart!</button>
+
+<script>
+function myFunction() {
+  alert("Item has been added to your shopping cart!");
+}
+</script>
+
+</body>
+</html>
